@@ -3,7 +3,7 @@ const path = require('path');
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
 const WebSocket = require('ws');
-const opn = require("opn");
+// const opn = require("opn");
 require('ansicolor').nice;
 
 const PORT = 8080;
